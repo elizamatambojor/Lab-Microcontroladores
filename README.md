@@ -15,6 +15,6 @@ Se implementó un Sistema Distribuido de Medición de Nivel y Alerta por Inundac
 - Laboratorio 4: Diseño e implementación de un sismógrafo digital con STM32F429 usando la biblioteca libopencm3 y comunicación IoT mediante ThingsBoard.
 - Laboratorio 5: Sistema de reconocimiento de actividad humana (HAR) con Arduino Nano 33 BLE Sense e implementación de TinyML en Google Colab usando TensorFlow.
 
-Lenguajes de programación: C y Python.
+Lenguajes de programación: C/C++ y Python.
 
 
